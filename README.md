@@ -34,7 +34,7 @@
 
 ## 💻 Sobre o projeto
 
-Este projeto foi desenvolvido durante a **Jornada Dev**, oferecido pela [EBAC](https://ebac.art.br/).
+Este projeto foi desenvolvido durante a **Jornada Dev**, oferecida pela [EBAC](https://ebac.art.br/).
 A **Jornada Dev** é uma imersão no mundo da programação, introduzindo os primeiros passos para se tornar um desenvolvedor web.
 
 ## 🌟 Resultado
